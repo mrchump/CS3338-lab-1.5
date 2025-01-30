@@ -1,1 +1,1 @@
-This is for my Lab Activity 1.5
+This simeple python program is to calculate the area of a trangle
